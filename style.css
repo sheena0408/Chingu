@@ -1,0 +1,17 @@
+label{
+    display: inline-block;
+    float: left;
+    clear: left;
+    width: 110px;
+    text-align: left;
+    margin-bottom: 10px;
+}
+input,textarea {
+  display: inline-block;
+  float: left;
+}
+.submit{
+	float: left;
+	clear: left;
+	margin:10px 0 0 100px;
+}
